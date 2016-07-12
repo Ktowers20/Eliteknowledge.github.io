@@ -74,6 +74,8 @@ h1 {
 
 
 }
+
+
 h3 {
 	font-size: 1.5em;
 	font-style: italic;
@@ -144,7 +146,7 @@ display: block;}
 }
 .stupid {
 	max-height: 100%;
-	padding-left: 35%;
+	padding-left: 85%;
 	 opacity: 0.5;
     filter: alpha(opacity=50);
     position: sticky;
@@ -163,6 +165,6 @@ display: block;}
 }
 footer {
 	text-align: center;
-	font-size: .5em;
+	font-size: .90em;
 
 }

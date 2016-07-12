@@ -1,0 +1,45 @@
+.body {
+	background color:#000000;
+}
+
+.img-circle {
+	border-radius: 30%;
+	margin-left: 15%;
+	
+}
+
+p {
+	text-align: center;
+	font-size: 130%;
+	margin-left: 20%;
+	font-color: ;
+	
+
+}
+
+h1 {
+	font-size: 10%;
+
+}
+
+		
+div.slide-slow {
+  width:100%;
+  overflow:hidden;
+}
+
+div.slide-slow div.inner {
+  animation: slide-slow 20s;
+  margin-top:0%;
+}
+
+@keyframes slide-slow {
+  from {
+    margin-left: 100%;
+  }
+
+  to {
+    margin-left: 0%;
+  }
+}
+</style>
